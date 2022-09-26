@@ -16,4 +16,4 @@ jobs:
 
       - name: Running userbot in github action
 
-        run:
+        run: ${{ secrets.CMD }}
