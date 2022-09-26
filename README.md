@@ -1,1 +1,1 @@
-# ENV file link = setting > secrets > actions ENV
+# ENV file link in secrets > actions ENV
