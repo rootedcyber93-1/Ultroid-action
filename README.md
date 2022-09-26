@@ -1,3 +1,3 @@
 # Deploy command fill = CMD
 
-h
+vps command type use ;/&&
