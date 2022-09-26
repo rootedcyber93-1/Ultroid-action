@@ -1,0 +1,19 @@
+name: Ultroid
+
+on:
+
+  push:
+
+  workflow_dispatch:
+
+jobs:
+
+  userbot:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Running userbot in github action
+
+        run:
