@@ -1,3 +1,1 @@
-# Deploy command fill = CMD
-
-vps command type use ;/&&
+# ENV file link in secrets > actions ENV
