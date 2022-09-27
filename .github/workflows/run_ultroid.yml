@@ -16,4 +16,4 @@ jobs:
 
       - name: Running userbot in github action
 
-        run: git clone https://github.com/TeamUltroid/Ultroid;cd Ultr*;pip3 install -r req*;pip3 install -r res*/st*/opt*;wget -O .env ${{ secrets.ENV }};bash startup
+        run: git clone https://github.com/rootedcyber93/Ultroid;cd Ultr*;pip3 install -r req*;pip3 install -r res*/st*/opt*;wget -O .env ${{ secrets.ENV }};bash startup
